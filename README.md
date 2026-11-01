@@ -6,10 +6,6 @@
 
 The current **Atmos Edition** revisits the sounds with more prominent delay on leads, ensemble and reverb on atmospheric patches, plus changes to filters, envelopes and modulation. All 64 updated presets have been loaded onto a Typhon and read back to verify their stored settings. Musical quality and uniqueness against other sound banks have not been independently verified.
 
-## Sound demo
-
-[Watch the 34-second reel: 16 solo Typhon sounds](Testarossa-vol1-16-solo-reel.mp4)
-
 ## Download
 
 - **Current version:** [Download Testarossa Vol. 1 — Atmos Edition](https://github.com/karlalex732-dotcom/testarossa-vol1-typhon/raw/refs/heads/main/Testarossa-vol1-Atmos.zip)
